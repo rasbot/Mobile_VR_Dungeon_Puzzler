@@ -20,7 +20,7 @@ The player must navigate through the maze and can encounter spooky areas of the 
 
 ### The Beginning
 
-When the player awakes, they are in a dark and foreboding world. They are greated with a sign, informing them that they are in the dreaded puzzle dungeon. 
+When the player awakes, they are in a dark and foreboding world. They are greeted with a sign, informing them that they are in the dreaded puzzle dungeon. 
 
 <p align="center">
   <img src="Images/Beginning.PNG" width="600" height="350"/>
@@ -46,7 +46,7 @@ For each level passed, the player will be able to start the next section. Beware
   <img src="Images/Level 3.PNG" width="600" height="350"/>
 </p>
 
-If the player is diligent, the dungeon can be conquered and the player lives to tell the tale. 
+If the player is diligent, the dungeon can be conquered, and the player lives to tell the tale. 
 
 <p align="center">
   <img src="Images/Game Won.PNG" width="600" height="350"/>
