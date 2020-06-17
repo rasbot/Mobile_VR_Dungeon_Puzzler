@@ -23,7 +23,7 @@ The player must navigate through the maze and can encounter spooky areas of the 
 When the player awakes, they are in a dark and foreboding world. They are greated with a sign, informing them that they are in the dreaded puzzle dungeon. 
 
 <p align="center">
-  <img src="Images/beginning.PNG" width="600" height="350"/>
+  <img src="Images/Beginning.PNG" width="600" height="350"/>
 </p>
 
 Many travelers have not returned from this unforgiving land. As they stand outside of this dungeon, a sinister sky filled with countless stars greets them. The desolate mountain range engulfs them in a sense of isolation. 
