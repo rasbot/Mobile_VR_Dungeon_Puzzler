@@ -7,7 +7,7 @@ You are about to enter a dark dungeon. The only escape is to complete the puzzle
 </div>
 
 <p style="text-align: center;">
-Click on this image to see a YouTube video of the project.
+  <b>Click on this image to see a YouTube video of the project.</b>
 </p>
 
 Using the Unity game engine this project is a mobile VR game where the player solves a Simon Says like puzzle. Using a Google cardboard headset while running the game on an Android smart phone, the user can look around in 3 rotational degrees of freedom. They can look left / right, up / down, and tilt their head. The button on the cardboard headset gives the player the ability to interact with the environment by looking at an object and clicking. This gives the user the ability to move into the dungeon, as well as click on the puzzle to play the game. 
