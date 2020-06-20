@@ -2,8 +2,12 @@
 
 You are about to enter a dark dungeon. The only escape is to complete the puzzle you see in front of you. Certain doom awaits those that fail their task! Only glory will be rewarded for those that can complete the sinister puzzle...
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Dungeon_Puzzler/master/Images/Dungeon.PNG" width="800" height="500"/>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=D6eJjm8InQs"><img src="https://raw.githubusercontent.com/rasbot/Mobile_VR_Dungeon_Puzzler/master/Images/Dungeon.PNG" alt="IMAGE ALT TEXT"></a>
+</div>
+
+<p style="text-align: center;">
+Click on this image to see a YouTube video of the project.
 </p>
 
 Using the Unity game engine this project is a mobile VR game where the player solves a Simon Says like puzzle. Using a Google cardboard headset while running the game on an Android smart phone, the user can look around in 3 rotational degrees of freedom. They can look left / right, up / down, and tilt their head. The button on the cardboard headset gives the player the ability to interact with the environment by looking at an object and clicking. This gives the user the ability to move into the dungeon, as well as click on the puzzle to play the game. 
