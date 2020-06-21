@@ -57,3 +57,19 @@ If the player is diligent, the dungeon can be conquered, and the player lives to
 </p>
 
 What will await the winner? Nothing? Perhaps the developer did not account for this and the player must keep cycling through the dungeon, only to find themselves at the start of the game each time. Will the cycle ever end? Does the developer intend to revisit this project, perhaps transporting the player out of this hellish landscape when the game is completed? Or did they move on to more interesting projects, abandoning the player...entombing them within the aging walls of this puzzle dungeon? These answers are yet unknown, and perhaps will never be uncovered.
+
+To access a build of the Mobile VR Dungeon Puzzler, use this link:
+
+https://drive.google.com/file/d/150NH4ksxnbveozb8tPDcvIdFoepe0mnR/view?usp=sharing
+
+This is a build for Android smart phones only. To view the project, follow these steps.
+
+* Download the apk file from the google drive link.
+
+* Copy the apk file to your Android phone.
+
+* Install the project by launching the apk file. You will most likely be asked if you want to install apps that are not from the Google play store. Click yes.
+
+* Once the app has installed, launch it.
+
+* You will probably be prompted to place your phone in a cardboard VR viewer. After doing this you should be able to interact with the project and explore it!
